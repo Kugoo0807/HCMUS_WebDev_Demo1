@@ -1,3 +1,4 @@
+# Use official Node.js LTS image (small & stable)
 FROM node:18-alpine
 
 # Define working directory inside container
